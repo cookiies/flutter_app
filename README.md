@@ -1,2 +1,2 @@
-# flutter-app
+# flutterApp
 Basic Flutter Application
