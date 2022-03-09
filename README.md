@@ -6,3 +6,8 @@ Basic Flutter Application
 ## How to run flutter app
 
     flutter run
+
+## How to deploy to firebase
+
+    flutter build web
+    firebase deploy
